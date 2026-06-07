@@ -1,0 +1,3 @@
+cargo install openclaude
+openclaude pull llama-3.3-70b-q4
+openclaude chat
